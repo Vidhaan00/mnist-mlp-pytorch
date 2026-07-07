@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+
+data/
+
+saved_models/
+
+*.pt
+*.pth
+
+.DS_Store
