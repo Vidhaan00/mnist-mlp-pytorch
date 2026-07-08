@@ -9,3 +9,9 @@ saved_models/
 *.pth
 
 .DS_Store
+
+test.py 
+
+output.log
+
+error.log
